@@ -1,0 +1,7 @@
+C:\Users\widebrain\Desktop\UnityServer\Server\Server\bin\Debug\Server.exe.config
+C:\Users\widebrain\Desktop\UnityServer\Server\Server\bin\Debug\Server.exe
+C:\Users\widebrain\Desktop\UnityServer\Server\Server\bin\Debug\Server.pdb
+C:\Users\widebrain\Desktop\UnityServer\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\widebrain\Desktop\UnityServer\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\widebrain\Desktop\UnityServer\Server\Server\obj\Debug\Server.exe
+C:\Users\widebrain\Desktop\UnityServer\Server\Server\obj\Debug\Server.pdb

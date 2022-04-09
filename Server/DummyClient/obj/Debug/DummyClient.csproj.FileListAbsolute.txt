@@ -1,0 +1,7 @@
+C:\Users\widebrain\Desktop\UnityServer\Server\DummyClient\bin\Debug\DummyClient.exe.config
+C:\Users\widebrain\Desktop\UnityServer\Server\DummyClient\bin\Debug\DummyClient.exe
+C:\Users\widebrain\Desktop\UnityServer\Server\DummyClient\bin\Debug\DummyClient.pdb
+C:\Users\widebrain\Desktop\UnityServer\Server\DummyClient\obj\Debug\DummyClient.csproj.AssemblyReference.cache
+C:\Users\widebrain\Desktop\UnityServer\Server\DummyClient\obj\Debug\DummyClient.csproj.CoreCompileInputs.cache
+C:\Users\widebrain\Desktop\UnityServer\Server\DummyClient\obj\Debug\DummyClient.exe
+C:\Users\widebrain\Desktop\UnityServer\Server\DummyClient\obj\Debug\DummyClient.pdb
